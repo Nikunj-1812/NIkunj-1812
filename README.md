@@ -90,13 +90,6 @@ profile = {
 <p align="left">
   <img src="https://streak-stats.demolab.com?user=Nikunj-1812&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9&sideLabels=8b949e&dates=6e7681" />
 </p>
----
-
-### Contribution Streak
-
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=Nikunj-1812&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9&sideLabels=8b949e&dates=6e7681" />
-</p>
 
 ---
 
